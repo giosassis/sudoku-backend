@@ -1,4 +1,4 @@
-# Sudoku - Frontend
+# Sudoku - Backend
 
 This is the backend of the Sudoku game, developed with **FastAPI**. The API is responsible for generating Sudoku boards, validating users' answers and providing the correct solution.
 
